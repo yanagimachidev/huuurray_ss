@@ -1,2 +1,2 @@
 # huuurray_ss
-Huuurray App Server Side
+Huuurray Server Side
